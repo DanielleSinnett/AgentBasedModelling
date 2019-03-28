@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 13 20:23:59 2019
+model.py created on Wed Feb 13 20:23:59 2019
 
-@author: de-sinnett
+@author: Danielle Sinnett, student number 200827672
 
 This is the first version of the agent based modelling portfolio.
 It sets up two agents, walks them one step in a 100 x 100 grid and
@@ -18,6 +18,13 @@ the location of agents 1 and 2 after walking one step from randomly generated
 starting locations, and the distance between them.
 
 You will then be returned to the command prompt.
+
+Copyright (c) School of Geography,
+University of Leeds, Leeds, West Yorkshire, LS2 9JT
+All rights reserved.
+
+This code is provided under the Academic Academic Free License v. 3.0.
+For details, please see the http://www.opensource.org/licenses/AFL-3.0.
 """
 # Make the x and y variables
 y0 = 50
