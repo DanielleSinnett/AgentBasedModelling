@@ -2,7 +2,7 @@
 
 This is an online portfolio for an agent based model developed as part of the *Programming for GIS* module at the University Leeds.
 
-The final code can be found here: [GitHub] (https://daniellesinnett.github.io/finalmodel.py)
+The final code can be found [here:] (https://daniellesinnett.github.io/finalmodel.py)
 
 To run the code please:
 
@@ -10,7 +10,7 @@ To run the code please:
 2. Open it with the Python Shell
 3. Select Run, then Run Module
 
-You can see how the code has evolved over the course of the exercises here: [GitHub] (https://daniellesinnett.github.io/versions)
+You can see how the code has evolved over the course of the exercises [here:] (https://daniellesinnett.github.io/versions)
 
 # About me
 
