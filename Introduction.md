@@ -3,7 +3,7 @@ It sets up two agents, walks them one step in a 100 x 100 grid and
 calculates the Euclidian distance between them.
 
 To run it:
-1. Download this file from here: https://daniellesinnett.github.io/model.py
+1. Download this file from here: [GitHub] https://daniellesinnett.github.io/model.py
 2. Open it with the Python Shell
 3. Select Run, then Run Module
 
