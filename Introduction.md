@@ -1,12 +1,19 @@
-This is the first version of the agent based modelling portfolio.
-It sets up two agents, walks them one step in a 100 x 100 grid and
-calculates the Euclidian distance between them.
+# Introduction
 
-To run it:
-1. Download this file from here: [GitHub] (https://daniellesinnett.github.io/model.py)
+This is an online portfolio for an agent based model developed as part of the *Programming for GIS* module at the University Leeds.
+
+The final code can be found here: [GitHub] (https://daniellesinnett.github.io/finalmodel.py)
+
+To run the code please:
+
+1. Download the file from the above link
 2. Open it with the Python Shell
 3. Select Run, then Run Module
 
-This will display the starting locations of the variables at 50 50, the
-the location of agents 1 and 2 after walking one step from randomly generated
-starting locations, and the distance between them.
+You can see how the code has evolved over the course of the exercises here: [GitHub] (https://daniellesinnett.github.io/versions)
+
+# About me
+
+The author is Dr Danielle Sinnett.
+
+Danni is a researcher in the Centre for Sustainable Planning and Environments at the University of the West of England, Bristol. She is an environmental scientist with expertise in urban green infrastructure and the greening of brownfield and contaminated land. Danni is learning Geographical Information Systems to help her develop her futher her research.
