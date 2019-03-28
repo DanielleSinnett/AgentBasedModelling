@@ -1,12 +1,13 @@
-This is the first version of the agent based modelling portfolio.
-It sets up two agents, walks them one step in a 100 x 100 grid and
-calculates the Euclidian distance between them.
+# Evolution of the agent based model
 
-To run it:
-1. Download this file from here: [GitHub] (https://daniellesinnett.github.io/model.py)
-2. Open it with the Python Shell
-3. Select Run, then Run Module
+Here you can download the earlier versions of the agent based model, as follows:
 
-This will display the starting locations of the variables at 50 50, the
-the location of agents 1 and 2 after walking one step from randomly generated
-starting locations, and the distance between them.
+1. Walking two agents one step [here] (https://daniellesinnett.github.io/model.py)
+2. Walking two one step and plotting their final location [here] (https://daniellesinnett.github.io/model2.py)
+3. Walking ten agents one hundred steps and plotting their final location [here] (https://daniellesinnett.github.io/model3.py)
+4. Making the ten agents eat their environment [here] (https://daniellesinnett.github.io/model4.py)
+5. Making them share with neighbours [here] https://daniellesinnett.github.io/model5.py
+
+You can download the code and follow the instructions; for 4 and 5 you will also need to download the [Agent class] (https://daniellesinnett.github.io/agentframework.py)
+
+You can return to the final model [here] (https://daniellesinnett.github.io/finalmodel.py)
