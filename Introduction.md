@@ -10,7 +10,7 @@ To run the code please:
 2. Open it with the Python Shell
 3. Select Run, then Run Module
 
-You can see how the code has evolved over the course of the exercises [here:] (https://daniellesinnett.github.io/versions)
+You can see how the code has evolved over the course of the exercises [here:] (https://daniellesinnett.github.io/Versions)
 
 # About me
 
