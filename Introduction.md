@@ -7,7 +7,8 @@ The final code can be found [here:](https://daniellesinnett.github.io/finalmodel
 To run the code please:
 
 1. Download the files from the above links
-2. Open it with the Python Shell
+2. Save them in the same folder
+2. Open the finalmodel.py with the Python Shell
 3. Select Run, then Run Module
 
 You can see how the code has evolved over the course of the exercises [here:](https://daniellesinnett.github.io/Versions)
