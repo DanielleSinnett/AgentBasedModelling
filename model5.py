@@ -12,6 +12,7 @@ location in the environment.
 To run it:
 1. Download this file
 2. Download the agent class (agentframework.py) and the input data (in.txt)
+   and save them in the same folder as this file
 3. Open this file with the Python Shell
 4. Select Run, then Run Module
 
