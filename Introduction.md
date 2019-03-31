@@ -16,4 +16,4 @@ You can see how the code has evolved over the course of the exercises [here:](ht
 
 The author is Dr Danielle Sinnett.
 
-Danni is a researcher in the Centre for Sustainable Planning and Environments at the University of the West of England, Bristol. She is an environmental scientist with expertise in urban green infrastructure and the greening of brownfield and contaminated land. Danni is learning Geographical Information Systems to futher her research.
+Danni is a researcher in the Centre for Sustainable Planning and Environments at the University of the West of England, Bristol. She is an environmental scientist with expertise in urban green infrastructure and the greening of brownfield and contaminated land. Danni is learning Geographical Information Systems to further her research.
